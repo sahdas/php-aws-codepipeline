@@ -15,6 +15,8 @@
                     @endif
 
                     You are logged in!
+
+                    <p>Application successfully updated!</p>
                 </div>
             </div>
         </div>
