@@ -5,3 +5,4 @@ php -r "if (hash_file('sha384', 'composer-setup.php') === '93b54496392c062774670
 php composer-setup.php
 php composer.phar install
 php artisan key:generate
+sudo chmod -R 777 /var/www/html/php-aws-codepipeline-example/storage
